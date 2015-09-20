@@ -10,7 +10,7 @@ import com.jcraft.jsch.Session
 /**
  * SSH session to execute remote shells with context management (in/out)
  * 
- * @author X124570
+ * @author Didier Legrand
  *
  */
 class RemoteSession {
